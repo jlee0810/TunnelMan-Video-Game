@@ -1,0 +1,57 @@
+{
+  "_buildCommand2" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "90a555d6df0372968c45cd933bdc4ad5e7c0ead2fda0cacef9b04929c02aa297"
+    }
+  ],
+  "containerPath" : "/Users/joonwonlee/Desktop/UCLA/Second_Year/Summer_Quarter/CS32/Projects/Project_4/Files/TunnelMan.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx12.3",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "x86_64h",
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/joonwonlee/Desktop/UCLA/Second_Year/Summer_Quarter/CS32/Projects/Project_4/Files/DerivedData/TunnelMan/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/joonwonlee/Desktop/UCLA/Second_Year/Summer_Quarter/CS32/Projects/Project_4/Files/DerivedData/TunnelMan/Build/Products",
+      "derivedDataPath" : "/Users/joonwonlee/Desktop/UCLA/Second_Year/Summer_Quarter/CS32/Projects/Project_4/Files/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/joonwonlee/Desktop/UCLA/Second_Year/Summer_Quarter/CS32/Projects/Project_4/Files/DerivedData/TunnelMan/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/joonwonlee/Desktop/UCLA/Second_Year/Summer_Quarter/CS32/Projects/Project_4/Files/DerivedData/TunnelMan/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/joonwonlee/Desktop/UCLA/Second_Year/Summer_Quarter/CS32/Projects/Project_4/Files/DerivedData/TunnelMan/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
